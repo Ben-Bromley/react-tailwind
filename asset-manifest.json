@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-tailwind/static/css/main.7dabe420.chunk.css",
+    "main.js": "/react-tailwind/static/js/main.4c175b9d.chunk.js",
+    "main.js.map": "/react-tailwind/static/js/main.4c175b9d.chunk.js.map",
+    "runtime-main.js": "/react-tailwind/static/js/runtime-main.aeb40174.js",
+    "runtime-main.js.map": "/react-tailwind/static/js/runtime-main.aeb40174.js.map",
+    "static/js/2.42c5e626.chunk.js": "/react-tailwind/static/js/2.42c5e626.chunk.js",
+    "static/js/2.42c5e626.chunk.js.map": "/react-tailwind/static/js/2.42c5e626.chunk.js.map",
+    "static/js/3.30fbbec8.chunk.js": "/react-tailwind/static/js/3.30fbbec8.chunk.js",
+    "static/js/3.30fbbec8.chunk.js.map": "/react-tailwind/static/js/3.30fbbec8.chunk.js.map",
+    "index.html": "/react-tailwind/index.html",
+    "static/css/main.7dabe420.chunk.css.map": "/react-tailwind/static/css/main.7dabe420.chunk.css.map",
+    "static/js/2.42c5e626.chunk.js.LICENSE.txt": "/react-tailwind/static/js/2.42c5e626.chunk.js.LICENSE.txt",
+    "static/media/bullseye.eedad311.jpg": "/react-tailwind/static/media/bullseye.eedad311.jpg",
+    "static/media/clubhouse-image.4da863f6.png": "/react-tailwind/static/media/clubhouse-image.4da863f6.png",
+    "static/media/profile-image-default.f5bbe167.png": "/react-tailwind/static/media/profile-image-default.f5bbe167.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aeb40174.js",
+    "static/js/2.42c5e626.chunk.js",
+    "static/css/main.7dabe420.chunk.css",
+    "static/js/main.4c175b9d.chunk.js"
+  ]
+}
