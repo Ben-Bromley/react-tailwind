@@ -20,20 +20,22 @@ function Landing() {
         </section>
       </div>
       <div className="bg-white px-5 pt-5">
-        <section className="py-8 max-w-md md:max-w-2xl mx-auto lg:max-w-5xl flex">
+        <section className="py-8 max-w-md md:max-w-2xl mx-auto lg:max-w-5xl lg:flex">
           <div className="mx-2">
             <h2 className="text-4xl">Boost Your Rank On Search Engines By Building Backlinks!</h2>
             <p className="my-3">Backlinks (also known as “inbound links”, “incoming links” or “one way links”) are links from one website to a page on another website.</p>
             <p>Google and other major search engines consider backlinks “votes” for a specific page. Pages with a high number of backlinks tend to have high organic search engine rankings.</p>
           </div>
           <div className="mx-2">
-            <img className="max-w-lg" src={Bullseye} alt="Bullseye" />
+            <img className="sm:max-w-md md:max-w-lg" src={Bullseye} alt="Bullseye" />
           </div>
         </section>
-        <section className="max-w-md md:max-w-2xl mx-auto">
+        <section className="max-w-md md:max-w-4xl mx-auto">
           <h2 className="text-4xl">Backlinked.club active members.</h2>
           <p>Connect with our members good luck.</p>
           <div className="my-6 flex flex-wrap flex-auto justify-around ">
+            <ProfileCard />
+            <ProfileCard />
             <ProfileCard />
             <ProfileCard />
             <ProfileCard />
